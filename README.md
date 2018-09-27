@@ -1,0 +1,2 @@
+# dice-lotto
+zaliczenie Random
