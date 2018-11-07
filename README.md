@@ -1,2 +1,2 @@
-# dice-lotto
-zaliczenie Random
+#  projekty liceum
+projekty 3 klasa
