@@ -1,0 +1,10 @@
+C:\Users\przem\source\repos\open and save file\open and save file\obj\Debug\open and save file.csprojAssemblyReference.cache
+C:\Users\przem\source\repos\open and save file\open and save file\obj\Debug\open_and_save_file.Form1.resources
+C:\Users\przem\source\repos\open and save file\open and save file\obj\Debug\open_and_save_file.Properties.Resources.resources
+C:\Users\przem\source\repos\open and save file\open and save file\obj\Debug\open and save file.csproj.GenerateResource.cache
+C:\Users\przem\source\repos\open and save file\open and save file\obj\Debug\open and save file.csproj.CoreCompileInputs.cache
+C:\Users\przem\source\repos\open and save file\open and save file\bin\Debug\open and save file.exe.config
+C:\Users\przem\source\repos\open and save file\open and save file\bin\Debug\open and save file.exe
+C:\Users\przem\source\repos\open and save file\open and save file\bin\Debug\open and save file.pdb
+C:\Users\przem\source\repos\open and save file\open and save file\obj\Debug\open and save file.exe
+C:\Users\przem\source\repos\open and save file\open and save file\obj\Debug\open and save file.pdb
